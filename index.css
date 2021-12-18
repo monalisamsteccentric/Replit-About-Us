@@ -1,0 +1,34 @@
+body{
+    background-color: grey;
+}
+.row{
+    padding: 3%;
+}
+.details{
+    padding: 3%;
+}
+.container{
+    background-color: white;
+}
+.box{
+    display: flex;
+}
+.inline{
+    display: inline;
+}
+progress[value]{
+    width: 100%;
+}
+.fa-react{
+    color: skyblue;
+}
+.fa-css3{
+color: navy;
+}
+.fa-js{
+    color: yellow;
+}
+hr{
+    width: 35%;
+    border: 4px solid #0d6efd; 
+}
